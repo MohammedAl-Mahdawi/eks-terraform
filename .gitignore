@@ -1,0 +1,17 @@
+# macOS Files
+.DS_Store
+
+# Terraform Files and Folders
+
+# local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+# *.tfvars
+
+*.pem
+eks-key
